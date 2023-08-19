@@ -1,0 +1,80 @@
+.content-navbar{
+    font-size: 18px;
+
+}
+.title-header{
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    color: #3E4093;
+    text-align: center;
+}
+.description-header{
+    font-family: 'open sans', sans-serif;
+    font-size: 16px;
+    color: #F7F7F7;
+    background-color:#091426 ;
+}
+.header-experiences{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: #3E4093;
+
+}
+.image{
+    border-radius: 12px;
+    width: 120px;
+    height: 120px;
+}
+.card{
+    box-shadow: 5px 5px 5px #142b4f;;
+}
+.card-title{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+}
+.card-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #3E4093;    
+}
+.button-card{
+    border-radius: 15px;
+    color: white;
+    box-shadow: 1px 1px 1px 1px #142b4f;
+    background-color: #3E4093;
+}
+/* .wrapper-gallery{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+} */
+.header-gallery{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: #3E4093;
+}
+.title-read-more{
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    color: #091426;
+    text-align: center;
+
+}
+.description-read-more{
+    font-size: 16px;
+    background-color: #F7F7F7;
+}
+.img-read-more{
+    width: 600px;
+    height: 400px;
+    border-radius: 12px;
+}
+.footer{
+    font-family: 'Public Sans', sans-serif;
+}
+.copyright{
+    font-family: 'Roboto', sans-serif;
+}
